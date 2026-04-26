@@ -1,3 +1,2 @@
 # Sql-Optimister
-
-Generated with https://github.com/zmrlft/GreenWall.
+a simple tool to optimize andriod app
